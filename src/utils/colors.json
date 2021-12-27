@@ -1,0 +1,12 @@
+{
+    "themes": {
+        "dark":{
+            "backgroundColor": "#404042",
+            "textColor": "gray"
+        },
+        "light" : {
+            "backgroundColor": "#fff",
+            "textColor": "#000"
+        }
+    }
+}
