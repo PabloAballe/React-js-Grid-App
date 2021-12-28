@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PabloAballe/React-js-Grid-App/static/css/main.90be41ab.css",
-    "main.js": "/PabloAballe/React-js-Grid-App/static/js/main.0bc5bcdd.js",
-    "static/js/787.501ffde9.chunk.js": "/PabloAballe/React-js-Grid-App/static/js/787.501ffde9.chunk.js",
-    "index.html": "/PabloAballe/React-js-Grid-App/index.html",
-    "main.90be41ab.css.map": "/PabloAballe/React-js-Grid-App/static/css/main.90be41ab.css.map",
-    "main.0bc5bcdd.js.map": "/PabloAballe/React-js-Grid-App/static/js/main.0bc5bcdd.js.map",
-    "787.501ffde9.chunk.js.map": "/PabloAballe/React-js-Grid-App/static/js/787.501ffde9.chunk.js.map"
+    "main.css": "./static/css/main.90be41ab.css",
+    "main.js": "./static/js/main.30e8eff7.js",
+    "static/js/787.501ffde9.chunk.js": "./static/js/787.501ffde9.chunk.js",
+    "index.html": "./index.html",
+    "main.90be41ab.css.map": "./static/css/main.90be41ab.css.map",
+    "main.30e8eff7.js.map": "./static/js/main.30e8eff7.js.map",
+    "787.501ffde9.chunk.js.map": "./static/js/787.501ffde9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90be41ab.css",
-    "static/js/main.0bc5bcdd.js"
+    "static/js/main.30e8eff7.js"
   ]
 }
